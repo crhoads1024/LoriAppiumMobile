@@ -1,4 +1,4 @@
-# mobileB2BwebTest
+# LoriAppiumMobile
 
 This is a new implementation of a Page Object Model Mobile Testing Framework
 
