@@ -8,7 +8,7 @@ Android Native Testing:
 Using the AppiumAPIsDemo.apk file.
 
 iOS Native Testing:
-Using an as of yet undecided app file likely custom built using React Native
+Using an app file built using React Native and hosted in our S3 bucket at Hyla.
 
 Web App Testing:
 Using Chrome and Safari Webdrivers to naviate mobile web testing.
